@@ -18,25 +18,5 @@ main {
 
 h1 {
     font-size: 2em;
-    color: rgb(68, 32, 32);
-}
-
-h2 {
-    font-size: 1.5em;
-    color: rgb(190, 167, 36);
-}
-
-img.lado {
-    float: right;
-}
-
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: rgb(70, 138, 70);
-}
-
-a:hover {
-    text-decoration: underline;
-    color: blue;
+    color: rgb(214, 14, 14);
 }
